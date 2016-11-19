@@ -1,6 +1,8 @@
 # Installation
 In the workshop you will be building a blog, and there are a few setup tasks in the tutorial which would be good to work through beforehand so that you are ready to start coding on the day.
 
+(Attendees should aim to complete this chapter during the installation party, or as a preparation prior to the workshop if you are not attending the installation party.)
+
 # Install Python
 {% include "/python_installation/instructions.md" %}
 
