@@ -1,18 +1,14 @@
-![DjangoGirlsMcr](DjangoGirlsMcr.jpg)![CodeUpMcr](CodeUpMcr.jpg)
-# Django Girls Tutorial for CodeUp Manchester
+![DjangoGirlsMcr](DjangoGirlsMcr.jpg)
 
-This is the CodeUpMcr edition of the Django Girls Tutorial. The contents of this tutorial have been altered and shorten to suit the Django Girls monthly working group at CodeUp Manchester. If you would like to read the full version of the Django Girls Tutorial, visit [http://tutorial.djangogirls.org/](http://tutorial.djangogirls.org/)
+# Django Girls Tutorial for Django Girls Manchester 2017
 
-CodeUp Manchester is a mentoring program for adults who would like to learn how to code for free. Once a month they provide a workspace for people with no programming skills to come and learn the basics, with mentors available to answer any question and help learners. 
-
-For more information, visit [http://codeupmcr.co.uk/](http://codeupmcr.co.uk/)
+This is the Django Girls Manchester 2017 edition of the Django Girls Tutorial. The contents of this tutorial have been altered and shorten to suit the Django Girls Manchester 2017 workshop. If you would like to read the full version of the Django Girls Tutorial, please visit [http:\/\/tutorial.djangogirls.org\/](http://tutorial.djangogirls.org/)
 
 # Django Girls Tutorial
 
 > This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
-International License. To view a copy of this license, visit
-http://creativecommons.org/licenses/by-sa/4.0/
-
+> International License. To view a copy of this license, visit
+> [http:\/\/creativecommons.org\/licenses\/by-sa\/4.0\/](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Introduction
 
@@ -28,6 +24,7 @@ We hope that we'll be able to make you love technology as much as we do!
 
 Once you've finished the tutorial, you will have a simple, working web application: your own blog. We will show you how to put it online, so others will see your work!
 
-It will (more or less) look like this:
+It will \(more or less\) look like this:
 
 ![Figure 0.1](application.png)
+
