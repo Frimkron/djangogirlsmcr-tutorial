@@ -2,13 +2,13 @@
 
 # Django Girls Tutorial for Django Girls Manchester 2017
 
-This is the Django Girls Manchester 2017 edition of the Django Girls Tutorial. The contents of this tutorial have been altered and shorten to suit the Django Girls Manchester 2017 workshop. If you would like to read the full version of the Django Girls Tutorial, please visit [http:\/\/tutorial.djangogirls.org\/](http://tutorial.djangogirls.org/)
+This is the Django Girls Manchester 2017 edition of the Django Girls Tutorial. The contents of this tutorial have been altered and shorten to suit the Django Girls Manchester 2017 workshop. If you would like to read the full version of the Django Girls Tutorial, please visit [http://tutorial.djangogirls.org/](http://tutorial.djangogirls.org/)
 
 # Django Girls Tutorial
 
 > This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
 > International License. To view a copy of this license, visit
-> [http:\/\/creativecommons.org\/licenses\/by-sa\/4.0\/](http://creativecommons.org/licenses/by-sa/4.0/)
+> [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Introduction
 
