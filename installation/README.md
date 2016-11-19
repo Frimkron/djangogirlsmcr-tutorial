@@ -14,6 +14,12 @@ In the workshop you will be building a blog, and there are a few setup tasks in 
 # Install a code editor
 {% include "/code_editor/instructions.md" %}
 
+# Install Git{% include "/deploy/install_git.md" %}
+
+# Create a GitHub accountGo to [GitHub.com](http://www.github.com) and sign up for a new, free user account.
+
+# Create a PythonAnywhere account{% include "/deploy/signup_pythonanywhere.md" %}
+
 # Start reading
 
 Congratulations, you are all set up and ready to go! If you still have some time before the workshop, it would be useful to start reading a few of the beginning chapters:
