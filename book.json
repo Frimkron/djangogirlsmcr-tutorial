@@ -1,3 +1,8 @@
 {
+    "pluginsConfig": {
+        "sectionx":{
+            "tag": "b"
+            }
+           }
 
 }
