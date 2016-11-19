@@ -1,4 +1,4 @@
-# Installation Party
+# Instructions for Installation Party
 
 This chapter includes all of the installation instructions in one place and is for installation party only, or as preparation prior to the workshop if you are not able to attend.
 
@@ -35,5 +35,3 @@ Congratulations, you are all set up and ready to go! If you still have some time
 
 
 # Enjoy the workshop!
-
-When you begin the workshop, you'll be able to go straight to [Your first Django project!](../django_start_project/README.md) because you already covered the material in the earlier chapters.
