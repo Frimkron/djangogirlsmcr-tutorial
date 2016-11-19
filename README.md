@@ -1,8 +1,8 @@
 ![DjangoGirlsMcr](DjangoGirlsMcr.jpg)
 
-# Django Girls Tutorial for Django Girls Manchester 2017
+# Django Girls Tutorial for Django Girls Manchester
 
-This is the Django Girls Manchester 2017 edition of the Django Girls Tutorial. The contents of this tutorial have been altered and shorten to suit the Django Girls Manchester 2017 workshop. If you would like to read the full version of the Django Girls Tutorial, please visit [http://tutorial.djangogirls.org/](http://tutorial.djangogirls.org/)
+This is the Django Girls Manchester edition of the Django Girls Tutorial. The contents of this tutorial have been altered and shorten to suit the Django Girls Manchester workshop. If you would like to read the full version of the Django Girls Tutorial, please visit [http://tutorial.djangogirls.org/](http://tutorial.djangogirls.org/)
 
 # Django Girls Tutorial
 
