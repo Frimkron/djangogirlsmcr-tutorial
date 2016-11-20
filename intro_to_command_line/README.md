@@ -140,6 +140,7 @@ You'll probably see something similar on your machine. Once you open the command
 ### List files and directories
 
 So what's in it? It'd be cool to find out. Let's see:
+
 <!--sec data-title="OS X and Linux" data-id="OSX_Linux_ls" data-collapse=true ces-->
 
 {% filename %}command-line{% endfilename %}
@@ -154,7 +155,6 @@ Music
 <!--endsec-->
 
 <!--sec data-title="Windows" data-id="windows_dir" data-collapse=true ces-->
-
 
 {% filename %}command-line{% endfilename %}
 ```
