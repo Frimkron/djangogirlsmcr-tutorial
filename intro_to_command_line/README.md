@@ -152,6 +152,7 @@ Downloads
 Music
 ...
 ```
+
 <!--endsec-->
 
 <!--sec data-title="Windows" data-id="windows_dir" data-collapse=true ces-->
@@ -166,6 +167,7 @@ Music
 05/08/2014 07:28 PM <DIR>      Music
 ...
 ```
+
 <!--endsec-->
 
 ---
@@ -188,6 +190,7 @@ $ cd Desktop
 ```
 > cd Desktop
 ```
+
 <!--endsec-->
 
 Check if it's really changed:
@@ -208,6 +211,7 @@ $ pwd
 > cd
 C:\Users\olasitarska\Desktop
 ```
+
 <!--endsec-->
 
 Here it is!
@@ -233,6 +237,7 @@ $ mkdir practice
 ```
 > mkdir practice
 ```
+
 <!--endsec-->
 
 This little command will create a folder with the name `practice` on your desktop. You can check if it's there just by looking on your Desktop or by running a `ls` or `dir` command! Try it. :)
@@ -267,6 +272,7 @@ test
 > dir
 05/08/2014 07:28 PM <DIR>      test
 ```
+
 <!--endsec-->
 
 Congrats! :\)
@@ -294,6 +300,7 @@ $ cd ..
 ```
 > cd ..
 ```
+
 <!--endsec-->
 
 Using `..` with the `cd` command will change your current directory to the parent directory \(that is, the directory that contains your current directory\).
@@ -316,6 +323,7 @@ $ pwd
 > cd
 C:\Users\olasitarska\Desktop
 ```
+
 <!--endsec-->
 
 Now time to delete the `practice` directory:
@@ -337,6 +345,7 @@ $ rm -r practice
 > rmdir /S practice
 practice, Are you sure <Y/N>? Y
 ```
+
 <!--endsec-->
 
 Done! To be sure it's actually deleted, let's check it:
@@ -355,6 +364,7 @@ $ ls
 ```
 > dir
 ```
+
 <!--endsec-->
 
 ### Exit
@@ -376,6 +386,7 @@ $ exit
 ```
 > exit
 ```
+
 <!--endsec-->
 
 Cool, huh? :\)
