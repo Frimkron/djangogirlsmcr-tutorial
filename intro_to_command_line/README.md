@@ -129,6 +129,7 @@ $ pwd
 > cd
 C:\Users\olasitarska
 ```
+
 <!--endsec-->
 
 You'll probably see something similar on your machine. Once you open the command line you usually start at your user's home directory.
