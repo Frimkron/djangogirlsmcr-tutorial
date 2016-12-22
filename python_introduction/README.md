@@ -6,7 +6,7 @@ Let's write some code!
 
 ## Python prompt
 
-> For readers at home: this part is covered in the [Python Basics: Integers, Strings, Lists, Variables and Errors](https://www.youtube.com/watch?v=MO63L4s-20U) video.
+> This part is covered in the [Python Basics: Integers, Strings, Lists, Variables and Errors](https://www.youtube.com/watch?v=MO63L4s-20U) video should you wish to watch at a later date.
 
 To start playing with Python, we need to open up a *command line* on your computer. You should already know how to do that – you learned it in the [Intro to Command Line](../intro_to_command_line/README.md) chapter.
 
@@ -334,7 +334,7 @@ You can find a list of all available list methods in this chapter of the Python 
 
 ## Dictionaries
 
-> For readers at home: this part is covered in the [Python Basics: Dictionaries](https://www.youtube.com/watch?v=ZX1CVvZLE6c) video.
+> This part is covered in the [Python Basics: Dictionaries](https://www.youtube.com/watch?v=ZX1CVvZLE6c) video should you wish to watch at a later date.
 
 A dictionary is similar to a list, but you access values by looking up a key instead of a numeric index. A key can be any string or number. The syntax to define an empty dictionary is:
 
@@ -438,7 +438,7 @@ Excited for the next part? :)
 
 ## Compare things
 
-> For readers at home: this part is covered in the [Python Basics: Comparisons](https://www.youtube.com/watch?v=7bzxqIKYgf4) video.
+> This part is covered in the [Python Basics: Comparisons](https://www.youtube.com/watch?v=7bzxqIKYgf4) video should you wish to watch at a later date.
 
 A big part of programming involves comparing things. What's the easiest thing to compare? Numbers, of course. Let's see how that works:
 
@@ -546,7 +546,7 @@ Congrats! Booleans are one of the coolest features in programming, and you just 
 
 # Save it!
 
-> For readers at home: this part is covered in the [Python Basics: Saving files and "If" statement](https://www.youtube.com/watch?v=dOAg6QVAxyk) video.
+> This part is covered in the [Python Basics: Saving files and "If" statement](https://www.youtube.com/watch?v=dOAg6QVAxyk) video should you wish to watch at a later date.
 
 
 So far we've been writing all our python code in the interpreter, which limits us to entering one line of code at a time. Normal programs are saved in files and executed by our programming language __interpreter__ or __compiler__. So far we've been running our programs one line at a time in the Python __interpreter__. We're going to need more than one line of code for the next few tasks, so we'll quickly need to:
@@ -766,7 +766,7 @@ Time for the last part of this chapter!
 
 ## Your own functions!
 
-> For readers at home: this part is covered in the [Python Basics: Functions](https://www.youtube.com/watch?v=5owr-6suOl0) video.
+> This part is covered in the [Python Basics: Functions](https://www.youtube.com/watch?v=5owr-6suOl0) video should you wish to watch at a later date.
 
 Remember functions like `len()` that you can execute in Python? Well, good news – you will learn how to write your own functions now!
 
@@ -890,7 +890,7 @@ Congratulations! You just learned how to write functions! :)
 
 ## Loops
 
-> For readers at home: this part is covered in the [Python Basics: For Loop](https://www.youtube.com/watch?v=aEA6Rc86HF0) video.
+> This part is covered in the [Python Basics: For Loop](https://www.youtube.com/watch?v=aEA6Rc86HF0) video should you wish to watch at a later date.
 
 This is the last part already. That was quick, right? :)
 
