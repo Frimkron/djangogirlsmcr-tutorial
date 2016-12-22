@@ -119,6 +119,7 @@ It'd be nice to know where are we now, right? Let's see. Type this command and h
 $ pwd
 /Users/olasitarska
 ```
+> Note: 'pwd' stands for 'print working directory'.
 
 <!--endsec-->
 
@@ -129,12 +130,11 @@ $ pwd
 > cd
 C:\Users\olasitarska
 ```
+> Note: 'cd' stands for 'current directory'.
 
 <!--endsec-->
 
 You'll probably see something similar on your machine. Once you open the command line you usually start at your user's home directory.
-
-> Note: 'pwd' stands for 'print working directory'.
 
 ---
 
@@ -249,7 +249,7 @@ This little command will create a folder with the name `practice` on your deskto
 
 ### Exercise!
 
-Small challenge for you: in your newly created `practice` directory create a directory called `test`. Use `cd` and `mkdir` commands.
+Small challenge for you: in your newly created `practice` directory create a directory called `test`. (Use `cd` and `mkdir` commands.)
 
 #### Solution:
 
@@ -394,19 +394,22 @@ Cool, huh? :\)
 
 ## Summary
 
-Here is a summary of some useful commands:
+ Here is a summary of some useful commands:
 
-| Command \(Windows\) | Command \(Mac OS \/ Linux\) | Description | Example |
-| --- | --- | --- | --- |
-| exit | exit | close the window | **exit** |
-| cd | cd | change directory | **cd test** |
-| dir | ls | list directories\/files | **dir** |
-| copy | cp | copy file | **copy c:\test\test.txt c:\windows\test.txt** |
-| move | mv | move file | **move c:\test\test.txt c:\windows\test.txt** |
-| mkdir | mkdir | create a new directory | **mkdir testdirectory** |
-| del | rm | delete a directory\/file | **del c:\test\test.txt** |
+Command (Windows) | Command (Mac OS / Linux) | Description                | Example
+----------------- | ------------------------ | -------------------------- | ---------------------------------------------
+exit              | exit                     | close the window           | **exit**
+cd                | cd                       | change directory           | **cd test**
+cd                | pwd                      | show the current directory | **cd** (Windows) or **pwd** (Mac OS / Linux)
+dir               | ls                       | list directories/files     | **dir**
+copy              | cp                       | copy file                  | **copy c:\test\test.txt c:\windows\test.txt**
+move              | mv                       | move file                  | **move c:\test\test.txt c:\windows\test.txt**
+mkdir             | mkdir                    | create a new directory     | **mkdir testdirectory**
+rmdir (or del)    | rm                       | delete a file              | **del c:\test\test.txt**
+rmdir /S          | rm -r                    | delete a directory         | **rm -r testdirectory**
 
 These are just a very few of the commands you can run in your command line, but you're not going to use anything more than that today.
+
 If you're curious, [ss64.com](http://ss64.com) contains a complete reference of commands for all operating systems.
 
 ## Ready?
