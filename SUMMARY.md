@@ -19,5 +19,6 @@
 * [Extend your application](extend_your_application/README.md)
 * [Django Forms](django_forms/README.md)
 * [Deploy!](deploy/README.md)
+* [Deploy again!](deploy_again/README.md)
 * [What's next?](whats_next/README.md)
 
