@@ -3,6 +3,7 @@
 		"heading-anchors@1.0.3",
 		"ga@1.0.1",
 		"richquotes@0.0.7",
+		"github@2.0.0",
 		"codeblock-label",
 		"sectionx"
     ]
