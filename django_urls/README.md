@@ -1,6 +1,6 @@
-# Django urls
+# Django URLs
 
-We're about to build our first webpage: a homepage for your blog! But first, let's learn a little bit about Django urls.
+We're about to build our first webpage: a homepage for your blog! But first, let's learn a little bit about Django URLs.
 
 ## What is a URL?
 
