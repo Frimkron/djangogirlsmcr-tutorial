@@ -163,13 +163,6 @@ Now all you need to do is check that your website is running. Open your browser 
 http://127.0.0.1:8000/
 ```
 
-If you're using a Chromebook, you'll always visit your test server by accessing:
-
-{% filename %}browser{% endfilename %}
-```
-https://django-girls-<your cloud9 username>.c9users.io
-```
-
 Congratulations! You've just created your first website and run it using a web server! Isn't that awesome?
 
 ![It worked!](images/it_worked2.png)
