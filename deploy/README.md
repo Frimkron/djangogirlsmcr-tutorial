@@ -126,14 +126,9 @@ Your code is now on GitHub. Go and check it out!  You'll find it's in fine compa
 
 # Setting up our blog on PythonAnywhere
 
-> **Note** You might have already created a PythonAnywhere account earlier during the install steps – if so, no need to do it again.
-
-{% include "/deploy/signup_pythonanywhere.md" %}
-
-
 ## Pulling our code down on PythonAnywhere
 
-When you've signed up for PythonAnywhere, you'll be taken to your dashboard or "Consoles" page. Choose the option to start a "Bash" console – that's the PythonAnywhere version of a console, just like the one on your computer.
+When you've signed up for PythonAnywhere (https://www.pythonanywhere.com), you'll be taken to your dashboard or "Consoles" page. Choose the option to start a "Bash" console – that's the PythonAnywhere version of a console, just like the one on your computer.
 
 > **Note** PythonAnywhere is based on Linux, so if you're on Windows, the console will look a little different from the one on your computer.
 
