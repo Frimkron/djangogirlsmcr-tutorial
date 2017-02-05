@@ -3,7 +3,7 @@
 > Part of this chapter is based on tutorials by Geek Girls Carrots (https://github.com/ggcarrots/django-carrots).
 
 > Parts of this chapter are based on the [django-marcador
-tutorial](http://django-marcador.keimlink.de/) licensed under Creative Commons
+tutorial](http://django-marcador.keimlink.de/) licensed under the Creative Commons
 Attribution-ShareAlike 4.0 International License. The django-marcador tutorial
 is copyrighted by Markus Zapke-Gründemann et al.
 
@@ -13,8 +13,8 @@ The first step is to start a new Django project. Basically, this means that we'l
 
 The names of some files and directories are very important for Django. You should not rename the files that we are about to create. Moving them to a different place is also not a good idea. Django needs to maintain a certain structure to be able to find important things.
 
-> Remember to run everything in the virtualenv. If you don't see a prefix `(myvenv)` in your console you need to activate your virtualenv. We explained how to do that in the __Django installation__ chapter in the __Working with virtualenv__ part. Typing `myvenv\Scripts\activate` on Windows or
-`source myvenv/bin/activate` on Mac OS / Linux will do this for you.
+> Remember to run everything in the virtualenv. If you don't see a prefix `(myvenv)` in your console, you need to activate your virtualenv. We explained how to do that in the __Django installation__ chapter in the __Working with virtualenv__ part. Typing `myvenv\Scripts\activate` on Windows or
+`source myvenv/bin/activate` on Mac OS X or Linux will do this for you.
 
 <!--sec data-title="OS X or Linux" data-id="django_start_project_OSX_Linux" data-collapse=true ces-->
 
@@ -49,13 +49,14 @@ The (myvenv) C:\Users\Name\djangogirls>` part shown here is just example of the 
 
 `django-admin.py` is a script that will create the directories and files for you. You should now have a directory structure which looks like this:
 
-    djangogirls
-    ├───manage.py
-    └───mysite
-            settings.py
-            urls.py
-            wsgi.py
-            __init__.py
+```
+djangogirls
+├───manage.py
+└───mysite
+        settings.py
+        urls.py
+        wsgi.py
+        __init__.py
 ```
 > **Note**: in your directory structure, you will also see your `venv` directory that we created before.
 
@@ -96,9 +97,6 @@ match our hostname on PythonAnywhere once we deploy our application so we will c
 ```python
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 ```
-
-> **Note**: If you're using a Chromebook, add this line at the bottom of your settings.py file:
-> `MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'`
 
 ## Set up a database
 
