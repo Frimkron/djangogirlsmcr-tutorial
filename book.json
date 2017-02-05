@@ -2,7 +2,7 @@
     "plugins": [
 		"heading-anchors@1.0.3",
 		"richquotes@0.0.7",
-        "codeblock-label",
-        "sectionx"
+		"codeblock-label",
+		"sectionx"
     ]
 }
