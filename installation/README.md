@@ -17,8 +17,8 @@ In the workshop you will be building a blog, and there are a few setup tasks in 
 # Install Git
 {% include "/deploy/install_git.md" %}
 
-# Create a GitHub account 
-Go to [GitHub.com](http://www.github.com) and sign up for a new, free user account.
+# Create a GitHub account
+Go to [GitHub.com](https://www.github.com) and sign up for a new, free user account.
 
 # Create a PythonAnywhere account
 {% include "/deploy/signup_pythonanywhere.md" %}
