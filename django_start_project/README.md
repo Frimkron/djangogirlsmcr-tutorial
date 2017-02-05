@@ -148,13 +148,6 @@ You need to be in the directory that contains the `manage.py` file (the `djangog
 (myvenv) ~/djangogirls$ python manage.py runserver
 ```
 
-If you are on a Chromebook, use this command instead:
-
-{% filename %}Cloud 9{% endfilename %}
-```
-(myvenv) ~/djangogirls$ python manage.py runserver 0.0.0.0:8080
-```
-
 If you are on Windows and this fails with `UnicodeDecodeError`, use this command instead:
 
 {% filename %}command-line{% endfilename %}
