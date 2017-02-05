@@ -12,10 +12,6 @@ These three places will be important to you.  Your local computer will be the pl
 
 # Git
 
-> **Note** If you already did the Installation steps, there's no need to do this again – you can skip to the next section and start creating your Git repository.
-
-{% include "/deploy/install_git.md" %}
-
 ## Starting our Git repository
 
 Git tracks changes to a particular set of files in what's called a code repository (or "repo" for short). Let's start one for our project. Open up your console and run these commands, in the `djangogirls` directory:
