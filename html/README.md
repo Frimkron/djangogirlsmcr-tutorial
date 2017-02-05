@@ -4,7 +4,7 @@ What's a template, you may ask?
 
 A template is a file that we can re-use to present different information in a consistent format – for example, you could use a template to help you write a letter, because although each letter might contain a different message and be addressed to a different person, they will share the same format.
 
-A Django template's format is described in a language called HTML 
+A Django template's format is described in a language called HTML. 
 > This is covered in [How the Internet works](https://www.youtube.com/watch?v=oM9yAA09wdc) video should you wish to watch at a later date.
 
 ## What is HTML?
