@@ -1,5 +1,6 @@
 {
     "plugins": [
+		"richquotes@0.0.7",
         "codeblock-label",
         "sectionx"
     ]
