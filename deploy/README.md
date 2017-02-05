@@ -268,7 +268,7 @@ The `StaticFilesHandler` is for dealing with our CSS. This is taken care of auto
 
 Hit **Save** and then go back to the **Web** tab.
 
-We're all done! Hit the big green **Reload** button and you'll be able to go view your application. You'll find a link to it at the top of the page. (https://yourname.pythonanywhere.com)
+We're all done! Hit the big green **Reload** button and you'll be able to go view your application. You'll find a link to it at the top of the page (https://yourname.pythonanywhere.com).
 
 
 ## Debugging tips
