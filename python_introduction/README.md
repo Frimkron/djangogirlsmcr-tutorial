@@ -330,7 +330,8 @@ That worked like a charm!
 
 For extra fun, try some other indexes: 6, 7, 1000, -1, -6 or -1000. See if you can predict the result before trying the command. Do the results make sense?
 
-You can find a list of all available list methods in this chapter of the Python documentation: https://docs.python.org/3/tutorial/datastructures.html
+You can find a list of all available list methods in this chapter of the Python documentation: 
+https://docs.python.org/3/tutorial/datastructures.html
 
 ## Dictionaries
 
@@ -794,13 +795,17 @@ Hi there!
 How are you?
 ```
 
-That was easy! Let's build our first function with parameters. We will use the previous example – a function that says 'hi' to the person running it – with a name:
+Note: if it didn't work, don't panic! The output will help you to figure why:
+- If you get a `NameError`, that probably means you typed something wrong, so you should check that you used the same name when creating the function with `def hi():` and when calling it with `hi()`.
+- If you get an `IndentationError`, check that both of the `print` lines have the same whitespace at the start of a line: python wants all the code inside the function to be neatly aligned.
+- If there's no output at all, check that the last `hi()` *isn't* indented - if it is, that line will become part of the function too, and it will never get run.
+
+Let's build our first function with parameters. We will use the previous example – a function that says 'hi' to the person running it – with a name:
 
 {% filename %}python_intro.py{% endfilename %}
 ```python
 def hi(name):
 ```
-
 As you can see, we now gave our function a parameter that we called `name`:
 
 {% filename %}python_intro.py{% endfilename %}
