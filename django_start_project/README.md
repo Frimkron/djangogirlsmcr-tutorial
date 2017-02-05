@@ -169,8 +169,6 @@ Congratulations! You've just created your first website and run it using a web s
 
 While the web server is running, you won't see a new command-line prompt to enter additional commands. The terminal will accept new text but will not execute new commands. This is because the web server continuously runs in order to listen for incoming requests.
 
-> We reviewed how web servers work in the <b>How the Internet works</b> chapter.
-
 To type additional commands while the web server is running, open a new terminal window and activate your virtualenv. To stop the web server, switch back to the window in which it's running and press CTRL+C - Control and C buttons together (on Windows, you might have to press Ctrl+Break).
 
 Ready for the next step? It's time to create some content!
